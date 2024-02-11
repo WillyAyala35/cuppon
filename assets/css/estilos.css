@@ -1,0 +1,120 @@
+/* Reiniciar estilos */
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+
+/* Body */
+
+body {
+
+background-color: #caf0d3;
+
+}
+
+
+.contenedor-2 {
+
+display: flex;
+justify-content: center;
+
+}
+
+.navbar-brand {
+
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-size: 20pt;
+
+}
+
+.texto-1 { 
+
+font-family: "Roboto", light;
+font-size: 17pt;
+
+}
+
+.texto-2 { 
+
+font-family: "Roboto", light;
+font-size: 14pt;
+
+}
+
+.market {
+
+display: flex;
+font-family: "Roboto",;
+font-size: 12pt;
+gap: 10pt;
+
+}
+
+.Ubicación {
+
+font-family: "Roboto",;
+font-size: 13pt;
+
+}
+
+.precios {
+
+display: flex;
+justify-content: end;
+align-items: center;
+gap: 20pt;
+
+}
+
+.precio-1 {
+
+font-family: "Roboto", light;
+font-size: 12pt;
+
+}
+
+.precio-2 {
+
+font-family: "Roboto", light;
+font-size: 17pt;
+color: #28a745 ;
+
+}
+
+
+
+.form {
+
+font-family: "Roboto", medium;
+font-size: 15pt;
+text-align: center;
+color: #fff;
+margin-top: 8pt;
+
+}
+
+.form-control {
+
+font-family: "Roboto", ;
+font-size: 15pt;
+
+}
+
+.cuppon {
+
+display: flex;
+justify-content: center;
+margin-top: 15pt;
+font-family: "Roboto", weight;
+font-size: 25pt;
+font-weight: 500pt;
+
+}
+
+#footer {
+
+text-align: center;
+font-family: "Roboto", light;
+font-size: 14pt;
+
+}
